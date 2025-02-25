@@ -4,3 +4,6 @@
 [submodule "camera-streamer-kivy"]
 	path = camera-streamer-kivy
 	url = https://github.com/csuc-frc-2025/camera-streamer-kivy.git
+[submodule "point-cloud-viz-demo"]
+	path = point-cloud-viz-demo
+	url = https://github.com/csuc-frc-2025/point-cloud-viz-demo.git
