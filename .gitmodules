@@ -1,0 +1,6 @@
+[submodule "virtual-joystick-v2"]
+	path = virtual-joystick-v2
+	url = https://github.com/csuc-frc-2025/virtual-joystick-v2.git
+[submodule "camera-streamer-kivy"]
+	path = camera-streamer-kivy
+	url = https://github.com/csuc-frc-2025/camera-streamer-kivy.git
